@@ -1,0 +1,51 @@
+{
+  "element":
+  [
+    {
+      "name":"About This Site",
+      "content":"stories/ats.js",
+      "height": 128,
+      "width": 525
+    },
+    {
+      "name":"Origins",
+      "content":"stories/origin_story.js",
+      "height": 128,
+      "width": 536
+    },
+    {
+      "name":"Background",
+      "content":"stories/background.js",
+      "height": 128,
+      "width": 516
+    },
+    {
+      "name":"Projects",
+      "content":"stories/projects.js",
+      "height": 128,
+      "width": 480
+    },
+    {
+      "name":"Experience",
+      "content":"stories/experience.js",
+      "height": 162,
+      "width": 526
+    },
+    {
+      "name":"Resources",
+      "content":"stories/resources.js",
+      "height": 90,
+      "width": 260
+    },
+    {
+      "name":"Contact",
+      "content":"stories/contact.js",
+      "height": 110,
+      "width": 208
+    }
+  ],
+  "win":{
+    "width": 670,
+    "height": 1328
+  }
+}

@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/sciencedude100
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ejg.io
+  * I am sciencedude100 (https://keybase.io/sciencedude100) on keybase.
+  * I have a public key ASBvLlDsxA3EOvfARqbC56a-jUSn7KEK0r5XcP2xRKiy_Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206f2e50ecc40dc43af7c046a6c2e7a6be8d44a7eca10ad2be5770fdb144a8b2fc0a",
+      "host": "keybase.io",
+      "kid": "01206f2e50ecc40dc43af7c046a6c2e7a6be8d44a7eca10ad2be5770fdb144a8b2fc0a",
+      "uid": "b48c04812bb6285f017221999b9be019",
+      "username": "sciencedude100"
+    },
+    "merkle_root": {
+      "ctime": 1548883184,
+      "hash": "066ae158350d3268326fe480d7e1c9c3e3c2c180488defa73341a02e8cebfc6ef91928da7b2707f3a0c293edc51b2bd20599cc267c06fc8e2266cb1c4cc95f9a",
+      "hash_meta": "6cc15a0480130885deb5d40f43dc70a549d32f23ee74051a188671397fdacdbf",
+      "seqno": 4665582
+    },
+    "service": {
+      "entropy": "nyRehAmjKnRcbdgnlOPTCXjK",
+      "hostname": "ejg.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.13.2"
+  },
+  "ctime": 1548883191,
+  "expire_in": 504576000,
+  "prev": "25ff70acb02b66a42b6aa36919ff75aec210a9a316947b194344fb31d25c8e67",
+  "seqno": 29,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgby5Q7MQNxDr3wEamwuemvo1Ep+yhCtK+V3D9sUSosvwKp3BheWxvYWTESpcCHcQgJf9wrLArZqQraqNpGf91rsIQqaMWlHsZQ0T7MdJcjmfEICyjv1I41atQAET5nlSUYjOPUXjGtXhrjq3QwMUEflCVAgHCo3NpZ8RAZ41vdkrTXMHAMts6Utn4BGa1WzVnjBDXLoftUbdlq6X3ckWQyYCHGDxhWJ1FwW0pqWiHZwTAmWCTzFLTdNduAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILme7SQfimwFoOxcb0/zFce8NQI4znP/hSI4UnwF5CMGo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sciencedude100
+
+==================================================================
