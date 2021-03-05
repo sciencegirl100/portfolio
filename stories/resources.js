@@ -26,7 +26,7 @@ if (mouseX >= xoff && mouseX < xoff+50){
 }else if(mouseX >= xoff+150 && mouseX < xoff+230){
   if (mouseY >= yoff+4 && mouseY < yoff+38){
     if (mouseRelease){
-      window.location.href = "https://liz.cray.lgbt/ResumeJan2019.pdf";
+      window.location.href = "https://lizcray.dev/ElizabethCrayResume.pdf";
     }
     cursor_image = 'grab';
   }else{

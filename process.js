@@ -19,8 +19,8 @@ function preload(){
 }
 
 function setup() {
-  if (getURL() != "https://liz.cray.lgbt/"){
-    window.location.replace("https://liz.cray.lgbt/");
+  if (getURL() != "https://lizcray.dev/"){
+    window.location.replace("https://lizcray.dev/");
   }
   minHeight = data.win["height"];
   minWidth = data.win["width"];
